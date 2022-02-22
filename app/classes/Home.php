@@ -8,6 +8,6 @@ class Home
 {
     public function index()
     {
-        header("Location: action.php?pages=world");
+        header("Location: action.php?pages=logIn");
     }
 }

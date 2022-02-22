@@ -14,66 +14,67 @@ class Products
             0=>[
                 "id"=>1,
                 "category-id"=>1,
-                "title"=>"Amar Ekushey Book Fair 2022 begins Tuesday",
-                "description"=>"The book fair will be held at Bangla Academy premises and the adjacent venue at Suhrawardi Udyan in the capital. This year",
-                "image"=>"assets/img/new1.jpg"
+                "name"=>"T-shirt 1",
+                "price"=>400,
+                "description"=>"product description 1",
+                "image"=>"assets/img/t-shirt1.jpg"
             ],
             1=>[
-                "id"=>1,
+                "id"=>2,
                 "category-id"=>1,
-                "title"=>"Pahela Falgun, Valentine's Day bring back joy in Dhaka streets",
-                "description"=>"Dhaka has worn a colorful look as festival-loving Bangladeshi people are celebrating the first day of the most anticipated season Basanta (Spring) and globally",
-                "image"=>"assets/img/new2.jpg"
+                "name"=>"T-shirt 2",
+                "price"=>700,
+                "description"=>"product description 2",
+                "image"=>"assets/img/t.jpg"
             ],
             2=>[
-                "id"=>2,
+                "id"=>3,
                 "category-id"=>2,
-                "title"=>"Bangladesh safest, most transparent RMG maker in the world: BGMEA",
-                "description"=>"This achievement came as a result of the firm determination, efforts and investment of entrepreneurs along with the support of",
-                "image"=>"assets/img/new3.jpg"
+                "name"=>"Sari 1",
+                "price"=>800,
+                "description"=>"product description 3",
+                "image"=>"assets/img/s3.jpg"
             ],
             3=>[
-                "id"=>2,
+                "id"=>4,
                 "category-id"=>2,
-                "title"=>"Company Act needs amendment: Commerce secretary",
-                "description"=>"The Company Act was last amended in 1994 and it needs to be made time-befitting to adopt so many changes in the globa",
-                "image"=>"assets/img/b1.jpg"
+                "name"=>"Sari 2",
+                "price"=>1200,
+                "description"=>"product description 3",
+                "image"=>"assets/img/s5.jpg"
             ],
             4=>[
-            "id"=>2,
-            "category-id"=>2,
-                "title"=>"Amar Ekushey Book Fair 2022 begins Tuesday",
-            "description"=>"product description 3",
-            "image"=>"assets/img/b2.jpg"
+                "id"=>5,
+                "category-id"=>2,
+                "name"=>"Sari 3",
+                "price"=>800,
+                "description"=>"product description 3",
+                "image"=>"assets/img/s4.jpg"
             ],
             5=>[
-            "id"=>3,
-            "category-id"=>3,
-                "title"=>"Amar Ekushey Book Fair 2022 begins Tuesday",
-            "description"=>"product description 3",
-            "image"=>"assets/img/b3.jpg"
+                "id"=>6,
+                "category-id"=>3,
+                "name"=>"Dress 1",
+                "price"=>1200,
+                "description"=>"product description 3",
+                "image"=>"assets/img/d1.jpg"
             ],
             6=>[
-                "id"=>3,
+                "id"=>7,
                 "category-id"=>3,
-                "title"=>"Myanmar junta says won’t attend ASEAN summit",
-                "description"=>"Myanmar’s junta on Monday said it would not attend an upcoming ASEAN summit after the bloc’s “regrettable” exclusion of its top",
-                "image"=>"assets/img/w1.png"
+                "name"=>"Dress 2",
+                "price"=>800,
+                "description"=>"product description 3",
+                "image"=>"assets/img/d4.jpg"
             ],
             7=>[
-                "id"=>3,
+                "id"=>8,
                 "category-id"=>3,
-                "title"=>"EU mulls emergency summit over Ukraine crisis",
-                "description"=>"Iran on Monday said an agreement to revive a 2015 nuclear deal with world powers was “at hand”, but insisted that sanctions be",
-                "image"=>"assets/img/s2.jpg"
-            ],
-            8=>[
-                "id"=>1,
-                "category-id"=>1,
-                "title"=>"EU mulls emergency summit over Ukraine crisis",
-                "description"=>"EU leaders could hold an emergency summit on the Ukraine crisis this week, on the sidelines of a meeting with their African",
-                "image"=>"assets/img/new3.jpg"
-            ],
+                "name"=>"Dress 3",
+                "price"=>1200,
+                "description"=>"product description 3",
+                "image"=>"assets/img/d2.jpg"
+            ]
         ];
     }
 

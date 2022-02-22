@@ -11,15 +11,15 @@ class Category
         return [
             0 => [
                 'id' => 1,
-                'name' => 'World',
+                'name' => 'T-shirt',
             ],
             1 => [
                 'id' => 2,
-                'name' => 'Bangladesh'
+                'name' => 'Sari'
             ],
             2 => [
                 'id' => 3,
-                'name' => 'Business'
+                'name' => 'Dress'
             ],
 
         ];
